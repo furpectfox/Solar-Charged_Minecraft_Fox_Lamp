@@ -10,5 +10,5 @@ The transistor-based constant circuit trickle-charges two Ni-Cd cells at 60mA us
 <img src="images/pcb_model.png" width="50%" />
 
 ## Final Product
-<img src="images/final_product.png" width="50%" />
+<img src="images/final_product.png" />
 
